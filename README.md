@@ -1,10 +1,11 @@
-# br1
+# BR1
+
 Rc file and Theme for AwesomeWM/lain.
 
-br1 is a configuration for Awesome with lain widgets.
+BR1 is a configuration for Awesome with lain widgets.
 
-Installation
-------------
+## Installation
+
 Fastest installation is to clone the repository in a path of your choice:
 
 ```
@@ -21,7 +22,7 @@ $ git clone https://github.com/lcpz/awesome-copycats.git
 $ ln -s awesome-copycats awesome
 ```
 
-Link both rc and themes (in case you cloned `br1` in `~/github/br1`):
+Link both `rc.lua` and `theme.lua` files (in case you cloned `br1` in `~/github/br1`):
 
 ```bash
 cd ~/.config/awesome
